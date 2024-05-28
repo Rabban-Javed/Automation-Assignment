@@ -1,0 +1,16 @@
+{
+  "name": "automation-assignmet",
+  "version": "1.0.0",
+  "main": "Calculator.js",
+  "scripts": {
+    "test": "mocha tests.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0"
+  }
+}
